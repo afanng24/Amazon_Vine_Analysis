@@ -5,7 +5,7 @@
 ## Resources
 **Source of Data** : 
 
-**Software** : Python 3.7.6 , Visual Studio Code, Tableau Public, Jupyter Notebook
+**Software** : Pyspark, Python, Pandas, Jupyter Notebook, Amazon Web Services RDS
 
 ## Results
 
