@@ -9,11 +9,9 @@ The Amazon Vine program is a membership service that allows manufacturers to rec
 **Software** : Pyspark, Python, Pandas, Jupyter Notebook, pgAdmin (SQL), Amazon Web Services RDS
 
 ## Results
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
-
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+- There were a total of 94 Vine reviews and 40471 non-Vine reviews.
+- Of the 94 total Vine reviews 48 gave a 5 star rating. Of the 40471 total non-Vine reviews, 15663 gave a 5 star rating.
+- In terms of percentages 48/94 means 51% of the paid Vine reviews gave a 5 star rating. 15663 non-paid Vine ratings to 40471 means 39% gave a 5 star rating.
 
 
 ## Summary
