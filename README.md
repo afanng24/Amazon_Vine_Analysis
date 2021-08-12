@@ -15,8 +15,8 @@ The Amazon Vine program is a membership service that allows manufacturers to rec
 
 
 ## Summary
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+The percentage disparity between paid Vine reviews and non-paid Vine reviews is a noticeable 12% which means that there is a bias to receiving a product for free to review it. However, the sheer amount of consumers and those that review it greatly outnumber the SellBy program’s capability to give away games to reviewers, this means that the total percentage of 5 star reviews from paid Vine reviers is closer to 0.3% whereas the total 5 star reviews from non-paid Vine reviers is 99.69%. 
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+There are many variables when it comes to this particular dataset, video games vary by popularity, price, and relevance. A video game may receive terrible ratings simply due to the fact that it remains retail price even though it is past-gen, conversely a game may receive entirely 5 star reviews due to the fact that it may be an indie developed game and not many people play it. An additional recommended analysis would be to separate the datasets between popular games with thousands of reviews and games with very few reviews. The SellBy program would possibly work well if the review sample is much smaller, however, as shown through this analysis it is not particularly effective when all the video games are bunched together with tens of thousands of reviews that vary across genres of video games.
+
 
